@@ -1,5 +1,6 @@
 AprendizajeAut-nomo-
 Ambiente de Desarrollo
+
 Usaremos Python por su simplicidad para lógica de programación. Herramientas necesarias: Editor: Visual Studio Code o cualquier editor de texto. Python: versión 3.13 . Librerías: random (incluida en Python) pyperclip (para copiar al portapapeles) → se instala con: pip install pyperclip Python es ideal para este proyecto porque permite aplicar conceptos de lógica de programación, ya que su sintaxis es clara y permite enfocarse en los fundamentos como:
 
 Maejo de Datos
