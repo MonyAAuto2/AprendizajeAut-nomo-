@@ -3,7 +3,7 @@ Ambiente de Desarrollo
 
 Usaremos Python por su simplicidad para lógica de programación. Herramientas necesarias: Editor: Visual Studio Code o cualquier editor de texto. Python: versión 3.13 . Librerías: random (incluida en Python) pyperclip (para copiar al portapapeles) → se instala con: pip install pyperclip Python es ideal para este proyecto porque permite aplicar conceptos de lógica de programación, ya que su sintaxis es clara y permite enfocarse en los fundamentos como:
 
-Maejo de Datos
+##Maejo de Datos
 a) Variables y Tipos de Datos: longitud:
 Tipo int → almacena el número de caracteres deseado para la contraseña. usar_mayus, usar_minus, usar_numeros, usar_especiales: tipo bool → indican si se incluirán ciertos caracteres. contraseña: tipo str → almacena la contraseña generada. b) Inicialización: Cada variable se inicializa a partir de entradas del usuario: longitud = int(input("Ingresa la longitud: ")) usar_mayus = input("¿Incluir mayúsculas? (s/n): ") == 's'
 
